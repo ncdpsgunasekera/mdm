@@ -1,2 +1,0 @@
-# mdm
-Master Data Mangement
